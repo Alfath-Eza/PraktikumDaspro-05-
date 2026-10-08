@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class StudyKasus105 {
+public class StudyKasus105copy {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int harga = 18000;
@@ -41,3 +40,6 @@ public class StudyKasus105 {
         
     }
 }
+
+
+
